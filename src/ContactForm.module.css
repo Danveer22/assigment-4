@@ -272,4 +272,9 @@ button:hover {
   .messageField textarea {
     height: 15rem;
   }
+  .successContainer {
+    transform: translate(0);
+    width: 30rem;
+    transform: translateX(-1.2rem);
+  }
 }
