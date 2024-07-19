@@ -261,4 +261,14 @@ button:hover {
   .queryField div {
     grid-template-columns: 1fr;
   }
+
+  .formContainer {
+    width: 75%;
+  }
+  .consentField label {
+    font-size: 1.2rem;
+  }
+  .messageField textarea {
+    height: 15rem;
+  }
 }
