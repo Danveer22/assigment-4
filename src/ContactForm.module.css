@@ -264,6 +264,7 @@ button:hover {
 
   .formContainer {
     width: 90%;
+    margin-top: 2rem;
   }
   .consentField label {
     font-size: 1.2rem;
