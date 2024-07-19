@@ -1,10 +1,10 @@
 .formContainer {
-  width: 65rem;
+  width: 70rem;
   background-color: var(--color-white);
   display: flex;
   font-size: 1.6rem;
   flex-direction: column;
-  padding: 1.5rem;
+  padding: 3.5rem;
   gap: 3rem;
   border-radius: 1rem;
 }
@@ -12,7 +12,7 @@
 .form {
   display: flex;
   flex-direction: column;
-  gap: 1.8rem;
+  gap: 3rem;
 }
 
 .nameField {
@@ -165,11 +165,11 @@
 }
 
 button {
-  padding: 1.2rem;
+  padding: 1.6rem;
   background-color: var(--color-primary);
   border: none;
   color: var(--color-white);
-  border-radius: 5px;
+  border-radius: 8px;
   cursor: pointer;
 }
 
