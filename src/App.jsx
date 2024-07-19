@@ -65,7 +65,7 @@ export default function App() {
   }
 
   return (
-    <>
+    <div className="container">
       {isSubmitted && <SubmitSuccess />}
       <div className={styles.formContainer}>
         <h1>Contact Us</h1>
@@ -191,7 +191,7 @@ export default function App() {
           <button>Submit</button>
         </form>
       </div>
-    </>
+    </div>
   );
 }
 
